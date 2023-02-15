@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: rgb(20, 165, 151);
+  box-sizing: border-box;
+}
+
+.Box{
+  background-color: rgb(35, 176, 155);
+  border: 2px solid rgb(197, 181, 162);
+  text-align: center;
+  padding:9em 3em ;
+  width: 400px;
+  margin: auto;
+}
+.button{
+  background-color: rgb(186, 39, 120);
+  color: white;
+  margin: 9px;
+  font-size: 1em;
+  padding: 7px 15px;
+  border: none;
+  border-radius: 10px;
+}
+
+.count{
+  font-size: 3em;
+  color: white;
+}
